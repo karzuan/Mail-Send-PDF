@@ -1,0 +1,19 @@
+body { font-family: Arial, Times;
+	  font-size:14px;}
+
+th { background-color: #00FF00;
+    text-align:center; }
+
+input { width:144px;}
+
+img {border-width: 2px;
+	border-color: black;
+	width: 30%;}
+
+p.my_text { font-family: Arial, Times;
+		   color: red;
+	 	   font-size:14px;
+	 	   text-align: left;}
+table { display: table;
+		border-spacing: 2px;
+		border-color: black; }
